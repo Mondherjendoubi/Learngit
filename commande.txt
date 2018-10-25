@@ -2,3 +2,6 @@ cd +esm dossier/chemin dossier : t7el dossier
 cd .. twa5er b 5otwa
 ls tatik chnwa fi west el dossier 
 pwd tatik chemin eli enti fi westo
+
+
+testadd
