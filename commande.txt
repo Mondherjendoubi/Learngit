@@ -4,4 +4,11 @@ ls tatik chnwa fi west el dossier
 pwd tatik chemin eli enti fi westo
 
 
-testadd
+
+git clone : estensa5
+git add . : lazem baed kol tabdil les fischer git add
+git commit -m"message": t7otha fl locale
+git push : tabatha lel serveurr
+git pull : tjib a5er changement lel server ( origin par deafaut)
+git status : bech taref fi ana branche ... resume status
+git checkout esm branche : t7awel mel branche lel branche jdida 
